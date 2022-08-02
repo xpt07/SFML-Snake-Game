@@ -1,0 +1,3 @@
+C:\DANIYAL-WORK\DMU-WORK\Term 2 (2022)\IMAT 1908\SFML_Template_(VS-2019)\SFML_Starter\Debug\SFML_Starter.exe
+C:\Users\xpto7\OneDrive\Desktop\C++ stuff\SFML_Template_(VS-2019)\SFML_Starter\Debug\SFML_Starter.exe
+C:\Users\xpto7\OneDrive\Desktop\SFML Snake\snakegame\Debug\SFML_Snake.exe
